@@ -1,0 +1,97 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+body {
+    background-color: #08BF39;
+	text-align: center
+}
+.style1 {
+	text-align: center
+	background: #FFFFF
+}
+.style2 {
+	text-align: center
+}
+.style3 {
+	font-size: 36px;
+	text-align: center;
+	color: #0F0;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+a:active {
+    text-decoration: none;
+}
+</style>
+<title>足球世界</title>
+</head>
+<body>
+<table width="798" border="0" align="center">
+ <tbody>
+  <tr>
+   <td width="788"><img src="images/1.jpg" class="style2" width="1500" height="166" alt=""/></td>
+  </tr>
+<tr>
+  <td><table width="100%" border="0">
+ <table width="100%" border="0">
+  <tbody>
+    <tr bgcolor="#EFE5E5">
+      <td  width="250"><a href="index.html">首页</a></td>
+      <td width="300">我与足球</td>
+      <td width="300">足球明星</td>
+      <td width="320">足球新闻</td>
+      <td>资料下载</td>
+    </tr>
+</tbody>
+<table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td bgcolor="#FFFFCB" width="115" height="130"><img src="images/1_jpg.jpg" width="80"  alt="" vspace="10"/><br>小贝</td>
+      <td width="115" height="130"><img src="images/10_jpg.jpg" width="70" alt="" vspace="10"/><br>罗马里奥</td>
+      <td bgcolor="#FFFFCB" width="115" height="120"><img src="images/11_jpg.jpg" width="80" alt="" vspace="10"/><br>里瓦尔多</td>
+      <td width="115" height="130"><img src="images/12_jpg.jpg" width="75" alt="" vspace="10"/><br>奥利费·卡里</td>
+      <td bgcolor="#FFFFCB" width="115" height="130"><img src="images/13_jpg.jpg" width="100" alt="" vspace="10"/><br>罗纳尔多</td>
+	  <td width="115" height="130"><img src="images/14_jpg.jpg" width="75" alt="" vspace="10"/><br>马尔蒂尼</td>
+      <td bgcolor="#FFFFCB" width="115" height="130"><img src="images/15_jpg.jpg" width="60" alt="" vspace="10"/><br>巴蒂斯图塔</td>
+    </tr>
+    <tr>
+      <td width="115" height="130"><img src="images/16_jpg.jpg" width="75" alt="" vspace="10"/><br>法比奥·卡纳瓦罗</td>
+	  <td bgcolor="#FFFFCB" width="115" height="130"><img src="images/17_jpg.jpg" width="75" alt="" vspace="10"/><br>克里斯蒂安</td>
+	  <td  width="115" height="130"><img src="images/18_jpg.jpg" width="75" alt="" vspace="10"/><br>郝海东</td>
+	  <td bgcolor="#FFFFCB" width="115" height="130"><img src="images/19_jpg.jpg" width="75" alt="" vspace="10"/><br>中天英寿</td>
+	  <td width="115" height="130"><img src="images/20_jpg.jpg" width="65" alt="" vspace="10"/><br>阿兰·希勒</td>
+	  <td bgcolor="#FFFFCB" width="115" height="130"><img src="images/3_jpg.jpg" width="75" alt="" vspace="10"/><br>卡洛斯</td>
+	  <td width="115" height="130"><img src="images/4_jpg.jpg" width="75" alt="" vspace="10"/><br>齐达内</td>
+    </tr>
+	<tr>
+	  <td width="115" height="130"></td>
+      <td width="115" height="130"><img src="images/5_jpg.jpg" width="75" alt="" vspace="10"/><br>巴乔</td>
+	  <td bgcolor="#FFFFCB" width="115" height="130"><img src="images/6_jpg.jpg" width="75" alt="" vspace="10"/><br>小罗</td>
+	  <td width="115" height="130"><img src="images/7_jpg.jpg" width="75" alt="" vspace="10"/><br>菲戈</td>
+	  <td bgcolor="#FFFFCB" width="115" height="130"><img src="images/8_jpg.jpg" width="75" alt="" vspace="10"/><br>德·皮埃罗</td>
+	  <td width="115" height="130"><img src="images/9_jpg.jpg" width="65" alt="" vspace="10"/><br>迈克尔·欧文</td>
+	  <td width="115" height="130"></td>
+    </tr>
+  </tbody>
+</table>
+</table>
+</td>
+</tr>
+ </tbody>
+</table>
+</body>
+</html>
+<tbody>
+    <tr>
+      
+      </tr>
+  </tbody>
